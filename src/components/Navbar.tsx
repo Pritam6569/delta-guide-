@@ -40,7 +40,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <div className="flex items-center gap-3">
           <img 
-            src="/delta-logo.svg" 
+            src="/Delta-executor-Discord-server.jpg" 
             alt="Delta Logo" 
             className="w-8 h-8 md:w-10 md:h-10" 
           />

@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="mb-6 md:mb-0">
             <div className="flex items-center gap-3 mb-2">
               <img 
-                src="/delta-logo.svg" 
+                src="/Delta-executor-Discord-server.jpg" 
                 alt="Delta Logo" 
                 className="w-6 h-6" 
               />
@@ -34,7 +34,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="text-center text-gray-400 text-sm">
-            <p>Credits: Delta team 2025</p>
+            <p>Website made by Pritam/prt</p>
           </div>
         </div>
       </div>

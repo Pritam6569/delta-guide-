@@ -125,7 +125,7 @@ const AndroidFixes = () => {
         </div>
         
         <div className="text-right">
-          <p className="text-sm text-gray-400">Credits: Delta android team/Rexi</p>
+          <p className="text-sm text-gray-400">Credits: Delta android team</p>
         </div>
       </div>
     </section>
